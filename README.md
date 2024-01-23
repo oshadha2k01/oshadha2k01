@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning  MERN Stack
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about MERN Stack
 
 - 📫 How to reach me **oshadhanipun2k1@gmail.com**
 
