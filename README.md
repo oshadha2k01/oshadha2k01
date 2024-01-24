@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshadha Nipun</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">I am an undergraduate IT student with a strong interest in frontend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshadha2k01&label=Profile%20views&color=0e75b6&style=flat" alt="oshadha2k01" /> </p>
 
