@@ -13,8 +13,7 @@
 
 - ⚡ Fun fact **Call me as Oshadha**
 
-- <!--- stats & Trophy (start) -->
-<p align="center">
+
   
 
 <h3 align="left">Languages and Tools:</h3>
