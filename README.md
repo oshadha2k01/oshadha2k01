@@ -9,7 +9,7 @@
 
 - 💬 Ask me about MERN
 
-- 📫 How to reach me **oshadhanipun2k1@gmail.com**
+- 📫 How to reach me **oshadhanipun093@gmail.com**
 
 - ⚡ Fun fact **Call me as Oshadha**
 
