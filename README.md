@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oshadha Nipun</h1>
+<h1 align="center">Hi 👋, I'm Oshadha Pathiraja</h1>
 <h3 align="center">I'm a passionate undergraduate IT student with a relentless curiosity for exploring cutting-edge technologies. My focus is on building innovative, scalable, and user-centric solutions using modern development tools and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshadha2k01&label=Profile%20views&color=0e75b6&style=flat" alt="oshadha2k01" /> </p>
