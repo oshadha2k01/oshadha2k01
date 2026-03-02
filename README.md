@@ -63,7 +63,7 @@ I am a dedicated IT undergraduate focused on building innovative, scalable, and 
 ### 🤝 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/oshadha-nipun-77b08333a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oshadha-pathiraja-77b08333a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1ALbvCwQNR/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/oshadha_nipun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
