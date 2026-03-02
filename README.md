@@ -54,11 +54,6 @@ I am a dedicated IT undergraduate focused on building innovative, scalable, and 
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=oshadha2k01&show_icons=true&theme=tokyonight&count_private=true" alt="Oshadha's GitHub Stats" />
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadha2k01&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Oshadha's Top Languages" />
-</p>
-
 <br><br><br><br><br><br><br><br> <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadha2k01&theme=tokyonight" alt="oshadha2k01 GitHub Streak" />
 </p>
