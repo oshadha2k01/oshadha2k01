@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshadha Pathiraja</h1>
-<h3 align="center">Passionate Undergraduate IT Student & Full-Stack Developer</h3>
+<h3 align="center">Final Year Undergraduate & Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oshadha2k01&label=Profile%20views&color=0e75b6&style=flat-square" alt="oshadha2k01" />
@@ -16,7 +16,7 @@ I am a dedicated IT undergraduate focused on building innovative, scalable, and 
 - 🌱 **Currently Mastering:** Advanced **Python** and diving deep into **AI/ML** architectures.
 - 💡 **Passionate About:** Building high-performance web applications and experimenting with cloud-native tech.
 - 💬 **Ask Me About:** **MERN Stack** development, UI/UX principles, or scalable backend logic.
-- 👨‍💻 **Portfolio:** Explore my work at [my-portfolio-one-wine-22.vercel.app](https://my-portfolio-one-wine-22.vercel.app/)
+- 👨&zwj;💻 **Portfolio:** Explore my work at [my-portfolio-one-wine-22.vercel.app](https://my-portfolio-one-wine-22.vercel.app/)
 - 📫 **Reach Out:** **oshadhanipun093@gmail.com**
 - ⚡ **Fun Fact:** Just call me **Oshadha**!
 
@@ -44,9 +44,23 @@ I am a dedicated IT undergraduate focused on building innovative, scalable, and 
   
   <br>
 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oshadha2k01&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadha2k01&layout=compact&theme=tokyonight&hide_langs_below=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadha2k01&theme=tokyonight" alt="oshadha2k01 GitHub Streak" />
 </p>
 
 ---
