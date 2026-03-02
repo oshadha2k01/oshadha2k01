@@ -54,7 +54,7 @@ I am a dedicated IT undergraduate focused on building innovative, scalable, and 
 
 ### 📊 GitHub Analytics
 
-<br><br><br><br><br><br><br><br> <p align="center">
+<br><p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadha2k01&theme=tokyonight" alt="oshadha2k01 GitHub Streak" />
 </p>
 
