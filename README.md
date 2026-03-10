@@ -16,7 +16,7 @@ I am a dedicated IT undergraduate focused on building innovative, scalable, and 
 - 🌱 **Currently Mastering:** Advanced **Python** and diving deep into **AI/ML** architectures.
 - 💡 **Passionate About:** Building high-performance web applications and experimenting with cloud-native tech.
 - 💬 **Ask Me About:** **MERN Stack** development, UI/UX principles, or scalable backend logic.
-- 👨&zwj;💻 **Portfolio:** Explore my work at [https://www.oshadha.dev/](https://www.oshadha.dev/)
+- 👨&zwj;💻 **Portfolio:** Explore my work at [www.oshadha.dev/](https://www.oshadha.dev/)
 - 📫 **Reach Out:** **oshadhanipun093@gmail.com**
 - ⚡ **Fun Fact:** Just call me **Oshadha**!
 
